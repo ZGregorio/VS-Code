@@ -1,0 +1,32 @@
+    @font-face {
+        font-family: myFirstFont;
+        src: url(Anton-Regular.ttf);
+    }
+    .carousel {
+        margin: auto;
+        width:640px;
+        height:360px;
+    }
+
+    .p {
+        text-align: center; 
+        color: white;
+    }
+
+    .h {
+        text-align: center; 
+        font-size: 70px; 
+        color: #66FCF1;
+        font-family: myFirstFont;
+    }
+    
+    .hacc {
+        width: 600px;
+        float: left;
+        margin-left: 20px;
+    }
+    .racc {
+        width: 600px;
+        float: right;
+        margin-right: 40px;
+    }
